@@ -1,1 +1,0 @@
-start dotnet App.dll

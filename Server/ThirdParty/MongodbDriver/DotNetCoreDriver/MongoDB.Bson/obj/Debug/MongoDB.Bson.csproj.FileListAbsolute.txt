@@ -1,9 +1,0 @@
-D:\WorkSpace\UnityWorkSpace\Demo\Bin\MongoDB.Bson.deps.json
-D:\WorkSpace\UnityWorkSpace\Demo\Bin\MongoDB.Bson.dll
-D:\WorkSpace\UnityWorkSpace\Demo\Bin\MongoDB.Bson.pdb
-D:\WorkSpace\UnityWorkSpace\Demo\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.csprojAssemblyReference.cache
-D:\WorkSpace\UnityWorkSpace\Demo\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.csproj.CoreCompileInputs.cache
-D:\WorkSpace\UnityWorkSpace\Demo\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.AssemblyInfoInputs.cache
-D:\WorkSpace\UnityWorkSpace\Demo\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.AssemblyInfo.cs
-D:\WorkSpace\UnityWorkSpace\Demo\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.dll
-D:\WorkSpace\UnityWorkSpace\Demo\Server\ThirdParty\MongodbDriver\DotNetCoreDriver\MongoDB.Bson\obj\Debug\MongoDB.Bson.pdb
